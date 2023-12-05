@@ -1,0 +1,17 @@
+{
+  "name": "scratch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "process.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/openai": "^1.0.0-beta.7",
+    "dotenv": "^16.3.1",
+    "mongodb": "^6.3.0"
+  }
+}
